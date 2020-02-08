@@ -3,8 +3,8 @@
 
 namespace Bixie\Taxonomy;
 
-use Pagekit\Application;
-use Pagekit\Application\Exception;
+use Biskuit\Application;
+use Biskuit\Application\Exception;
 
 class TaxonomyManager {
 

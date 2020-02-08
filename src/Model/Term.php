@@ -3,10 +3,10 @@
 namespace Bixie\Taxonomy\Model;
 
 use Bixie\Taxonomy\TaxonomyBase;
-use Pagekit\Application as App;
-use Pagekit\System\Model\DataModelTrait;
-use Pagekit\System\Model\NodeInterface;
-use Pagekit\System\Model\NodeTrait;
+use Biskuit\Application as App;
+use Biskuit\System\Model\DataModelTrait;
+use Biskuit\System\Model\NodeInterface;
+use Biskuit\System\Model\NodeTrait;
 
 /**
  * @Entity(tableClass="@taxonomy_term")

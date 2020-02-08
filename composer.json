@@ -1,15 +1,20 @@
 {
-  "name": "bixie/taxonomy",
+  "name": "biskuit/taxonomy",
   "type": "pagekit-extension",
   "version": "0.0.1",
   "title": "Taxonomy",
-  "description": "Taxonomy for Pagekit.",
+  "description": "Taxonomy for Biskuit.",
   "license": "MIT",
   "authors": [
     {
       "name": "Bixie",
       "email": "info@bixie.org",
       "homepage": "http://www.bixie.org"
+    },
+    {
+      "name": "Biskuit",
+      "email": "info@biskuit.org",
+      "homepage": "https://biskuit.org"
     }
   ]
 }

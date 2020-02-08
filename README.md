@@ -1,6 +1,6 @@
 # Taxonomy
 
-Taxonomy for Pagekit. This code is an alpha version. It is the intention to move this module to the Pagekit namespace when finished.
+Taxonomy for Biskuit. This code is an alpha version. It is the intention to move this module to the Biskuit namespace when finished.
 Developers are encouraged to test it with their extensions. Feedback is appreciated.
 
 #### Todo

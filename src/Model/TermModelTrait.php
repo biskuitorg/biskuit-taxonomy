@@ -2,8 +2,8 @@
 
 namespace Bixie\Taxonomy\Model;
 
-use Pagekit\Application as App;
-use Pagekit\Database\ORM\ModelTrait;
+use Biskuit\Application as App;
+use Biskuit\Database\ORM\ModelTrait;
 
 trait TermModelTrait
 {

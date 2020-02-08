@@ -3,7 +3,7 @@
 namespace Bixie\Taxonomy\Controller;
 
 use Bixie\Taxonomy\Model\Term;
-use Pagekit\Application as App;
+use Biskuit\Application as App;
 
 /**
  * @Access("taxonomy: use taxonomy")
